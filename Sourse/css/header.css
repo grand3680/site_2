@@ -1,0 +1,10 @@
+.header {
+    color: white;
+    background: url(../../images/header_backround.png);
+    width: auto;
+    height: 950px;
+}
+
+.header__container {
+    display: block;
+}
