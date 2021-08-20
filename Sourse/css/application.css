@@ -5,6 +5,7 @@
 .application__content {
     display: flex;
     background: url(../../images/backround_.png);
+    background-size: cover;
     width: auto;
     height: 800px;
     justify-content: center;
