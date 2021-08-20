@@ -5,6 +5,7 @@
 
 .about_you_content {
     background: url(../../images/backround__.png);
+    background-size: cover;
     width: auto;
     height: 900px;
 }
