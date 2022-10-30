@@ -1,0 +1,76 @@
+.main__Agency {
+    background-color: #11749E;
+    width: auto;
+    height: 900px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.main__Agency__div {
+    color: white;
+}
+
+.Agency__logo {
+    display: block;
+}
+
+.Agency__backround__logo {
+    font-family: 'Segoe UI';
+    font-weight: 400;
+    font-size: 244px;
+    opacity: 0.3;
+    position: relative;
+    bottom: 220px;
+}
+
+.Agency__txt__logo {
+    margin-top: 150px;
+    font-size: 38px;
+    text-transform: uppercase;
+    word-spacing: 10px;
+}
+
+
+.content__img {
+    width: 133px;
+    height: 133px;
+    margin-left: 50px;
+}
+
+
+.content__images_title {
+    font-size: 18px;
+    margin-left: 50px;
+    padding: 10px 10px 10px 10px;
+}
+.content__images_text_txt p {
+    color: #B5D4E1;
+    display: flex;
+}
+
+
+.content__images_text_txt img {
+    display: flex;
+    width: 133px;
+    height: 133px;
+}
+
+
+.content__images_text_txt h3 {
+    color: #C3DCE6;
+    display: flex;
+}
+
+
+.content__images_center {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.content__images_center div {
+    margin-left: 50px;
+    position: relative;
+    bottom: 200px;
+}

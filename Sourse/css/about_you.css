@@ -1,0 +1,75 @@
+.about_you {
+    display: block;
+    margin-top: 80px;
+}
+
+.about_you_content {
+    background: url(../../images/backround__.png);
+    background-size: cover;
+    width: auto;
+    height: 900px;
+}
+
+.about_you__txt {
+    display: block;
+    text-align: center;
+    padding-top: 250px;
+}
+
+.about_you__txt_backround {
+    font-size: 247px;
+    opacity: 0.3;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: white;
+    position: relative;
+    top: -210px;
+}
+
+.about_you__title {
+    font-size: 37px;
+    color: white;
+}
+
+.about_you__inputs {
+    justify-content: center;
+    display: flex;
+    margin-top: -200px;
+    color: white;
+}
+
+.about_you__input {
+    margin: 0px 10px 25px 10px;
+    padding: 2px 10px 0px 15px;
+    background: none;
+    border: 2px inset white;
+    border-radius: 1px;
+    color: white;
+    height: 40px;
+    width: 300px;
+}
+
+input::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder {
+    color: white;
+}
+
+.about_you__area {
+    resize: none;
+    width: 950px;
+    height: 150px;
+}
+
+.about_you__button {
+    padding: 0px 0px 10px 35px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    background-color: #11739D;
+    border: none;
+    font-size: 20px;
+    width: 150px;
+    height: 50px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
