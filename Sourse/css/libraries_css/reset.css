@@ -7,7 +7,7 @@
 }
 
 
-/* Remove internal indentation */.
+/* Remove internal indentation */
 
 ul[class],
 ol[class] {
@@ -15,7 +15,7 @@ ol[class] {
 }
 
 
-/* Remove the outside indentation */.
+/* Remove the outside indentation */
 
 body,
 h1,
